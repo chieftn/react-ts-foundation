@@ -1,3 +1,3 @@
 # React TS Foundation
 
-Supplies a quick development platform using Vite with React template.
+Supplies a quick development launch point using Vite with React template.
