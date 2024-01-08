@@ -3,5 +3,7 @@ export const App: React.FC = () => {
 };
 
 export const helloWorld = (): string => {
+    // eslint-disable-next-line no-console
+    console.log('hello world');
     return 'hello world';
 };
